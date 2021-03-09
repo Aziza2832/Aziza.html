@@ -1,7 +1,6 @@
 # Aziza.html
 <html>
         <head>
-            <title> Telephone </title>
             <link rel "stylesheet" href = "style.css" />
             </head>
              <body>
